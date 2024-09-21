@@ -1,0 +1,67 @@
+others:
+1.https://youtu.be/WXsD0ZgxjRw?si=UCRfGFFhPhnTrMUR
+2.https://youtu.be/ST8XxjOTIsg?si=g2gT3UQ-gg2biprF
+3.https://youtu.be/2JYT5f2isg4?si=HInLRBhrVQDewkAj
+
+
+stack learner:
+1.day-1:https://youtu.be/EbHf2aCuPVM?si=5C3C0h9W3C5FZSnA
+2.day-2:https://youtu.be/orn9N90dcVY?si=Lx8uqtIGZwaHi82Z
+3.day-3:https://youtu.be/c_VvDiFgwhk?si=4_kMp4k8Vq1T4dmJ
+
+Day 1: REST API From Concepts to Constraints | REST API Design Workshop | Stack Learner
+
+Day-1:
+1.Introduction to REST API
+2.Importance of API design
+3.Elements of an scalable API
+4.6 constraints of RESTfull API
+5.A good looking API
+6.Measuring the API maturity
+
+Day-2:
+1.handling partial responses
+2.Managing query parameters
+3.structuring the responses
+4.cache-control pattern
+5.API versioning Techniques
+
+Day-3:
+1.open API specifications
+2.API documentation using swager
+3.API security
+4.Effectively manage APIs
+
+Now start Day-1:
+1.What is API?
+ans:API : Application Programming Interface(API mamke contract between user & producer.)
+
+2.API architectural styles:SOAP,REST,Webhook,GraphQL,gRPC
+
+3.What is API design & why API design is so important?
+ans:important something during API design:
+	1.Intreroparability
+	2.Abstraction
+	3.Reusability
+	4.Adaptibility
+	5.Developer Experience
+	6.Security & Reliability
+
+4.Mostly Important API management: enjoy & feel bellow link:
+	1.woocommerce REST API: https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#index
+	2.vvi : https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#create-an-order
+	3.vvi : https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#create-a-customer
+	4.vvi : https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#create-a-product
+
+	5.vvi : https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28
+	6.vvi : https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+***user teke joto kom data newa jai & joto beshi data dewa jai setai best
+
+5.What is API first?
+ans:before coding first thought,design,planning,managing API is called API first world
+
+6.Two main stackholder of API : 1.producer    2.consumer
+7.differnt types of API consumer : 
+	1.public
+	2.private
+	3.partner
