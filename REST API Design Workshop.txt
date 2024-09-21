@@ -61,7 +61,44 @@ ans:important something during API design:
 ans:before coding first thought,design,planning,managing API is called API first world
 
 6.Two main stackholder of API : 1.producer    2.consumer
+
 7.differnt types of API consumer : 
 	1.public
 	2.private
 	3.partner
+
+8.Life cycle of an API:
+	1.producer lifecycle : (define->design->develop->test->secure->deploy->observe->distribute)
+	2.consumer lifecycle : (discover->evalute->integrate->test->deploy->observe)
+
+
+9.What is API design?
+ans:API design is a descision how an API will expose data & functionality to its consumers.
+process: 
+	1.determine what the API intended to do
+	2.define the API contract with a specification
+	3.validate your assumptions with mocks & tests
+	4.document the API
+
+10.What is REST API?
+ans : REST==Representational State Transfer & API==Application programming Interface.
+      REST API data exchange between clients & severs via http.
+      In REST API use data as a JSON format.
+
+11. 6 constraints || Rules of REST API:
+	1.client-server(API client fetch,axios,UI,...)
+	2.Statelessness(vvi-->scalibility of server-->ai khetre clienter protita request new hobe--1000 t server e 1000 t request patate parbe)
+	3.Cacheability
+	4.uniform Interface(URI-->Uniform Resourse Identifier)
+	5.Layerd System
+	6.Code-On-Demand (very less use)
+
+12.API : https://editor.swagger.io/
+
+13.Richardson Maturity Level : REST API
+	1.Level-0:
+	2.Level-1:
+	3.Level-2:
+	4.Level-3:
+
+//https://youtu.be/EbHf2aCuPVM?si=P4WE26yo2f9D4CN0------->1:50 min done
